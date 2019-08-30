@@ -1,0 +1,23 @@
+{
+  "appName": "Patronus",
+  "navigation": {
+    "auth": {
+      "login": {
+        "header": "Login",
+        "email": "Email",
+        "password": "Password",
+        "login": "Login",
+        "register": "register"
+      },
+      "register": {
+        "header": "Register",
+        "email": "Email",
+        "password": "Password",
+        "repeatPassword": "Repeat Password",
+        "nickname": "Nickname",
+        "register": "Register",
+        "login": "Login"
+      }
+    }
+  }
+}
